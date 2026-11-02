@@ -1,0 +1,8 @@
+<?php
+    // PERTEMUAN 2 - BELAJAR CONTROLLER
+
+    // CLASS CONTROLLER UTAMA UNTUK SEMUA CLASS YANG ADA DI DALAM FOLDER CONTROLLERS
+    class Controller {
+        
+    }
+?>
